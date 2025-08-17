@@ -33,7 +33,7 @@
 - 🔑 **Auth API Express** → système d’authentification & permissions (JWT, rôles, refresh token rotation, tests).  
 - 🔧 **BricoManager** → Application de gestion d'outils et de projet de bricolage
 - 👕 **TPI** → Application de gestion de PTI pour agents de sécurité (application réalisée pour mon oncle).
-- ☝🏾 **MY Portefolio V2** → Version 2 de mon portefolio fait avec Next JS.
+- ☝🏾 **MY Portefolio V2** → Intégration d'une maquette vu sur internet [voir la maquette](https://youtu.be/dImgZ_AH7uA?si=SfJ_A3oP30k10fYN).
 
 👉 [Voir mes repositories](https://github.com/guyevaristebade?tab=repositories)
 
