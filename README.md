@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Guy B
 
-<!--
-**guyevaristebade/guyevaristebade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur **Full Stack NODE JS** passionné  
+🚀 Stack : **TypeScript / Express | Java / Spring Boot | Docker**  
+🎯 Objectif : construire des APIs robustes et scalables + monter en expertise full stack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+- 🔨 J’adore construire des projets **pratiques et utiles** (API, apps full stack, outils Dev).
+- 🛜 Actuellement je developpe une **App web de gestion d'outil et de projet de bricolage**
+- 📚 À coté je me forme sur : **Spring Boot**.  
+- 🤝 Ouvert aux collaborations et projets freelance (MERN / PERN / Spring).
+- 🔍 Je suis à la recherche d'une **alternance de 2 ans** en tant que developpeur fullstack 
+
+---
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-3178C6?style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-316192?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+## 📌 Projets mis en avant
+- 🔑 **Auth API Express** → système d’authentification & permissions (JWT, rôles, refresh token rotation, tests).  
+- 🔧 **BricoManager** → Application de gestion d'outils et de projet de bricolage
+- 👕 **TPI** → Application de gestion de PTI pour agents de sécurité (application réalisée pour mon oncle).
+- 👕 **MY Portefolio V2** → Version 2 de mon portefolio fait avec Next JS.
+
+👉 [Voir mes repositories](https://github.com/guyevaristebade?tab=repositories)
+
+---
+
+## 📫 Me contacter
+- 🌐 Portfolio : [consultez moi](https://guyevaristebade.github.io/MyPortefolio/)  
+- 💼 LinkedIn : [linkedin](https://www.linkedin.com/in/guy-bade-67743019b/)  
+- 📧 Email : badeguyevariste@gmail.com  
+
+---
+
+✨ Toujours curieux, toujours en apprentissage ✨
