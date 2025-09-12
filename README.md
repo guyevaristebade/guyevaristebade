@@ -1,5 +1,5 @@
 # 👋 Salut, moi c’est Guy B
-![alt banner](https://guyevaristebade.github.io/MyPortefolio/)
+
 💻 Développeur **Full Stack NODE JS** passionné  
 🚀 Stack : **TypeScript / Express | Java / Spring Boot | Docker**  
 🎯 Objectif : construire des APIs robustes et scalables + monter en expertise full stack
