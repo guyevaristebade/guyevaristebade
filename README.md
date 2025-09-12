@@ -1,5 +1,5 @@
 # 👋 Salut, moi c’est Guy B
-![alt banner](https://www.canva.com/design/DAGyvvvNbq8/XiXAhQZoLHJGR8-pd54XJA/edit?utm_content=DAGyvvvNbq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![alt banner](https://guyevaristebade.github.io/MyPortefolio/)
 💻 Développeur **Full Stack NODE JS** passionné  
 🚀 Stack : **TypeScript / Express | Java / Spring Boot | Docker**  
 🎯 Objectif : construire des APIs robustes et scalables + monter en expertise full stack
