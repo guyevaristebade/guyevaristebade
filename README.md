@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Guy B
 
 💻 Développeur **Full Stack NODE JS** passionné  
-🚀 Stack : **TypeScript / Express | Java / Spring Boot | Docker**  
+🚀 Stack : **TypeScript | Express | React | MongoDB/PostgreSQL**  
 🎯 Objectif : construire des APIs robustes et scalables + monter en expertise full stack
 
 ---
@@ -9,9 +9,9 @@
 ## 🚀 À propos de moi
 - 🔨 J’adore construire des projets **pratiques et utiles** (API, apps full stack, outils Dev).
 - 🛜 Actuellement je developpe une **App web de gestion d'outil et de projet de bricolage**
-- 📚 À coté je me forme sur : **Spring Boot**.  
-- 🤝 Ouvert aux collaborations et projets freelance (MERN / PERN / Spring).
-- 🔍 Je suis à la recherche d'une **alternance de 2 ans** en tant que developpeur fullstack 
+- 📚 À coté je me forme sur la cybersécurité sur **TryHackMe**
+- 🤝 Ouvert aux collaborations et projets freelance (MERN / PERN).
+- 🔍 Je suis à la recherche d'une **alternance de 2 ans** dans le domaine de cybersécurité ou du développement sécurisé  
 
 ---
 
@@ -20,12 +20,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-3178C6?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-43853D?style=for-the-badge&logo=express.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-316192?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
