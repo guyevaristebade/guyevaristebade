@@ -2,7 +2,7 @@
 
 💻 Étudiant en **Master Conception de Systèmes et Cybersécurité** à l’Université Paris-Est Créteil  
 🚀 Stack principale : **TypeScript | Express | React | PostgreSQL / MongoDB**  
-🎯 Objectif : Trouver une **alternance de 12 à 24 mois** pour contribuer au développement et à la sécurisation de vos projets.  
+🎯 Objectif : Trouver un **stage** pour contribuer au développement et à la sécurisation de vos projets.  
 
 ---
 
@@ -22,8 +22,6 @@ Grâce à ma formation, je développe des applications tout en intégrant les **
 Mon parcours vise à former des développeurs sensibilisés à la sécurité des systèmes d’information, capables de concevoir des solutions performantes et résilientes. Issu d’un cursus axé sur le développement, ce master m’apporte aujourd’hui une double compétence : d’un côté la maîtrise au niveau développement, et de l’autre, la compréhension des enjeux de cybersécurité et des bonnes pratiques de développement sécurisé.
 
 🔗 lien de présentation de présentation : [Master Conception de Systèmes et Cybersécurité](https://master-securite.lacl.fr)
-
-📆 Rythme : **1 semaine en cours / 1 semaine en entreprise**
 
 ---
 
