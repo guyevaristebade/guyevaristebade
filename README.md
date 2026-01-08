@@ -12,7 +12,7 @@ Passionné par le **développement web** et curieux des enjeux liés à la **cyb
 Grâce à ma formation, je développe des applications tout en intégrant les **bonnes pratiques de sécurité** (authentification, gestion des permissions, tests, protection des API).  
 
 🔹 J’aime construire des projets **utiles et concrets** (API, apps full stack, outils Dev).
-🔹 Actuellement, je développe une **application de gestion d’outils et de projets de bricolage**.  
+🔹 Actuellement, je retravil mon image de marque.  
 🔹 Mon ambition : devenir un **développeur complet et conscient des enjeux de sécurité** dans le cycle de vie logiciel.
 
 ---
