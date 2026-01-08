@@ -13,7 +13,7 @@ Grâce à ma formation, je développe des applications tout en intégrant les **
 
 🔹 J’aime construire des projets **utiles et concrets** (API, apps full stack, outils Dev).
 🔹 Actuellement, je retravil mon image de marque.  
-🔹 Mon ambition : devenir un **développeur complet et conscient des enjeux de sécurité** dans le cycle de vie logiciel.
+🔹 Mon ambition : devenir un **développeur complet et conscient des enjeux de sécurité avec un oeil sensible à l'UX et l'UI** dans le cycle de vie logiciel.
 
 ---
 ## 🚀 À propos de mon cursus
