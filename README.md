@@ -13,7 +13,6 @@ Grâce à ma formation, je développe des applications tout en intégrant les **
 
 🔹 J’aime construire des projets **utiles et concrets** (API, apps full stack, outils Dev).
 🔹 Actuellement, je développe une **application de gestion d’outils et de projets de bricolage**.  
-🔹 Je me forme aussi sur la **cybersécurité offensive et défensive** via TryHackMe.  
 🔹 Mon ambition : devenir un **développeur complet et conscient des enjeux de sécurité** dans le cycle de vie logiciel.
 
 ---
